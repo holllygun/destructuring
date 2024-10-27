@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/wkq61e5td69ih08i?svg=true)](https://ci.appveyor.com/project/holllygun/destructuring)
